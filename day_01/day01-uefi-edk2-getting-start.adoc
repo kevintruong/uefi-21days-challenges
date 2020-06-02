@@ -1,0 +1,16 @@
+---
+title: "Day 01: UEFI - EDK2 Getting start"
+date: 2020-05-16T15:45:18Z
+draft: true
+---
+
+:projectdir: ../../
+:imagesdir: ${projectdir}/assets/
+:assetsdir: ${projectdir}/static/assets/
+:toclevels: 4
+:toc:
+:sectnums:
+:source-highlighter: coderay
+:sectnumlevels: 5
+
+

@@ -1,0 +1,68 @@
+= README
+
+By the time locking down by COVID-19, I have a little bit of free time on re-thinking about my next destination.
+I have some confused about myself in current position and also feel my job is not a right job.
+After almost 1 years, worked on a very new field: Networking, Router development.
+It make me feel terrible sometime.
+But I know Job is Job. to pay the bill you have to let your hand duty.
+
+By locking down time, I reviewed my knowledge base and also thinked about next plan.
+Then I come to an idea about a technical blog and an Youtube Channel `kencancode.xyz` to tell about my working experience and it will be like a notebook (blog/vlog) to me for review and share to everybody.
+
+About the repo, `UEFI_21days_challenges` is a course for developers interested on UEFI Application/Driver development.
+Then I want to tell those developers a story about how you can develop a UEFI application/driver from zero to one in practice.
+Because of that, then the course is not go detail on UEFI architecture or explain to much about UEFI.
+If you interested in the kind of knowledge then please take a look at the book
+https://www.amazon.com/Beyond-BIOS-Developing-Extensible-Interface/dp/1501514784[Beyond BIOS: Developing with the UEFI]
+I can say, the book is great resource to learn about why and what question in UEFI. But the course do not overlap or challenge the great book above.
+I want to add the missing of the book: The practical course for Developing an UEFI application/driver.
+
+I write the course because I did remember myself few years ago.
+When I tried to work on UEFI environment, but without any help.
+I can not find any resource about how to bringe up a effective development environment for UEFI ... etc.
+
+== Background
+
+I joined to found a startup working on remote control revolution.
+Basically, the idea is about create remote control system (USB device) then through USB device you can fully control a remote device like PC, smart phone.
+You can see a lot movie about spyder like 007 or Mission Impossible.
+A spider will need a help of tech guy to hack VIP's PC. The spider will plug USB device to PC and then the IT support guy can hack/control the PC remotely.
+
+So, my job on the startup is research and find a way to remote control Pre-boot environment (UEFI) through our USB device and also manage some system tasks.
+
+== Progress
+
+[cols="1,1,1,3",options="header",]
+|===============================================================================================
+|Status |Date |Author |Remark
+|Draft |June 02, 2020 |Kevin Truong | Initial course, idea, target ...
+|===============================================================================================
+
+== Notice
+
+* I have to warn that this is the first time I write a course.
+Honestly, I am not sure about how good to tell you guys about a specific entry.
+* That is about 21 days challenge.
+For now (initially), I still don't know about what is main stone of the course.
+Look like I will write and rewrite the course many times.
+But I hope I can release the course in about 2-3 months.
+* Don't blame me because my English.
+If you love my works, you see problems with my language, please help me by correcting and create a PR. I will love very much.
+
+== 21 Days UEFI challenge
+
+* Day 01: UEFI - EDK2 getting start
+** Overview about UEFI
+** Overview about EDK2
+** UEFI - EDK2 Hello World
+** Using Docker to compile your EFI program
+** Using QEMU to simulate EFI ENV
+
+* Day 02: //TODO
+** TODO add subject
+
+* Day 03: //TODO
+** TODO add subject
+
+* Day 04: //TODO
+** TODO add subject
