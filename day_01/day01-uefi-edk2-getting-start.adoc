@@ -13,4 +13,14 @@ draft: true
 :source-highlighter: coderay
 :sectnumlevels: 5
 
+== Main Stone
+
+* What is UEFI ?
+Some basic concept and knowledge.
+* What is EDK2 ? Why we need the framework ?
+* Getting start by run your first EFI application
+** Compile your first EFI application
+** Running your first EFI application with QEMU/(VirtualBox)
+** Running your first EFI application in PC
+
 

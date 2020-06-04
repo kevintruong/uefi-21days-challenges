@@ -49,6 +49,34 @@ But I hope I can release the course in about 2-3 months.
 * Don't blame me because my English.
 If you love my works, you see problems with my language, please help me by correcting and create a PR. I will love very much.
 
+== Main Stone
+
+* Beginer level: From zero to practictionor UEFI development (First 4 days)
+** Getting start UEFI : Compile, running EFI application in QEMU
+** What is EDK2 ? Components , what , why ?
+** Create your first EFI component
+*** Create your first EFI application
+*** Create your first EFI driver
+*** Create your first EFI library
+
+* Intermediate level: Understand about some advanced protocol and concept in UEFI (4th - 14 days)b
+** UEFI USB
+** Graphic
+** Boot loader
+
+* Advanced level: (the last 7 days)
+** Implement USB camera device UEFI driver
+** Camera display UEFI application
+
+== Course Design
+
+I want learners fell easy to practice then I think the good way is the repo `UEFI_21days_challenges` will be a sub-folder of EDK2 source.
+
+[source]
+----
+
+----
+
 == 21 Days UEFI challenge
 
 * Day 01: UEFI - EDK2 getting start
