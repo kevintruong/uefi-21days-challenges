@@ -2,9 +2,6 @@
 
 By the time locking down by COVID-19, I have a little bit of free time on re-thinking about my next destination.
 I have some confused about myself in current position and also feel my job is not a right job.
-After almost 1 years, worked on a very new field: Networking, Router development.
-It make me feel terrible sometime.
-But I know Job is Job. to pay the bill you have to let your hand duty.
 
 By locking down time, I reviewed my knowledge base and also thinked about next plan.
 Then I come to an idea about a technical blog and an Youtube Channel `kencancode.xyz` to tell about my working experience and it will be like a notebook (blog/vlog) to me for review and share to everybody.
